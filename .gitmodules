@@ -1,0 +1,3 @@
+[submodule "lib/j-mode"]
+	path = lib/j-mode
+	url = https://github.com/zellio/j-mode.git
